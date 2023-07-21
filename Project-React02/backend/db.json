@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "name": "Thế Vinh",
+      "email": "vinhto1a@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "cart": [],
+      "id": 1,
+      "total": 110000,
+      "locked": false
+    },
+    {
+      "name": "Nam Tokyo",
+      "email": "nam@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2,
+      "cart": [],
+      "total": 85000,
+      "locked": false
+    },
+    {
+      "name": "lam",
+      "email": "lam@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "cart": [],
+      "locked": false,
+      "id": 3
+    },
+    {
+      "name": "Phú",
+      "email": "phu@gmail.com",
+      "password": "123123",
+      "confirmPassword": "123123",
+      "cart": [],
+      "locked": false,
+      "id": 4
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "name": "Nhà hàng Hoa Sen",
+      "location": "Số 10 Văn Miếu, Ba Đình",
+      "ship": "15-20 min",
+      "start": "4.9",
+      "src": "https://vnn-imgs-a1.vgcloud.vn/znews-photo.zadn.vn/w1024/Uploaded/sgogtn/2020_01_02/36ca5728591ebbfd4a8014e9e940df7c.jpg",
+      "menu": [
+        {
+          "id": 1,
+          "img": "https://file.hstatic.net/1000394081/article/bun-dau-mam-tom-thap-cam_2321472f6d634b1192e171c5e659e187.jpg",
+          "title": "Bún đậu mắm tôm ",
+          "location": "Số 167 Trần Duy Hưng, Trung Hòa",
+          "price": "10000"
+        },
+        {
+          "img": "https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/1/20/996904/B924C6E6-F486-4F96-A.jpeg",
+          "title": "Nem rán Hà Nội",
+          "location": "Số 167 Trần Duy Hưng, Trung Hòa",
+          "price": 30000,
+          "id": 2
+        },
+        {
+          "img": "https://bepxua.vn/wp-content/uploads/2022/08/cach-lam-bun-cha.jpg",
+          "title": "Bún chả ",
+          "location": "Số 10 Văn Miếu, Ba Đình",
+          "price": 60000,
+          "id": 3
+        }
+      ]
+    }
+  ]
+}
